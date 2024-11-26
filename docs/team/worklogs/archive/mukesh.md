@@ -428,13 +428,13 @@ Had a day off due to sickness
 
 ## 2023-07-13
 
-- Restarted writing the Simplying Installation project details <!-- codespell:ignore Simplying -->
+- Restarted writing the Simplying Installation project details
 
 
 ## 2023-07-12
 
 - Some async discussion
-- Started writing the project for Simplying Installation <!-- codespell:ignore Simplying -->
+- Started writing the project for Simplying Installation
 - Unproductive day due to health issues
 
 
