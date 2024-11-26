@@ -60,12 +60,12 @@
 
 ## 2023-09-14
 
-- Adressed requested changes for [#3055](https://github.com/centerofci/mathesar/pull/3055)
+- Addressed requested changes for [#3055](https://github.com/mathesar-foundation/mathesar/pull/3055)
 
 ## 2023-09-13
 
 - Sync with Mukesh
-- Adressed requested changes for [#3170](https://github.com/centerofci/mathesar/pull/3170)
+- Addressed requested changes for [#3170](https://github.com/mathesar-foundation/mathesar/pull/3170)
 
 ## 2023-09-12
 
