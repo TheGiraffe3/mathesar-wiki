@@ -50,9 +50,9 @@
 ## 2023-09-18
 
 - *Did nothing* (Cause I ran out of work to do)
-- Waiting on the review for [#3055](https://github.com/centerofci/mathesar/pull/3055)
+- Waiting on the review for [#3055](https://github.com/mathesar-foundation/mathesar/pull/3055)
 - Asked Dom if I can be of help with his ongoing project
-- Will start working on the documentaion for Debian install [#3165](https://github.com/centerofci/mathesar/issues/3165) once a PR for docker installation is created as #3165 should follow the same template
+- Will start working on the documentation for Debian install [#3165](https://github.com/centerofci/mathesar/issues/3165) once a PR for docker installation is created as #3165 should follow the same template
 
 ## 2023-09-15
 
