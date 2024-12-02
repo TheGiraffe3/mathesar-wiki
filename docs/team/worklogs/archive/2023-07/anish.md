@@ -28,7 +28,7 @@
 
 ## 2023-07-24
 
-- Figuring out how to start implementing the tests in the sql layer and which tests sholuld be pulled down from the python layer
+- Figuring out how to start implementing the tests in the sql layer and which tests should be pulled down from the python layer
 
 ## 2023-07-21
 
