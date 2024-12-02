@@ -109,7 +109,7 @@ What to work on
 
 - Automate cutting release process
 - Error logging
-    - Brent: it would be good to figure out what we _want_ to do, even if we don't end up doing it for this releease. We'll work on figuring out the requirements.
+    - Brent: it would be good to figure out what we _want_ to do, even if we don't end up doing it for this release. We'll work on figuring out the requirements.
 - Brent would like to improve support for Python versions. Added.
 - i18n
     - Maybe we could have this is if we're able to receive the translations in time
