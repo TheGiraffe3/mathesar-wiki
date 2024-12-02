@@ -16,7 +16,7 @@
 ### What could've gone better
 
 - Sean:
-    - The amount of organizational overhead we have for each release still feels significantly larger than I would like to see for a task we're preforming every month. I'd like to continuing finding ways to streamline it.
+    - The amount of organizational overhead we have for each release still feels significantly larger than I would like to see for a task we're performing every month. I'd like to continuing finding ways to streamline it.
     - During the previous two releases, we've made the release very near the end of the month, having almost no time to spare. For me personally this time crunch adds significantly more stress to my overall experience as a Mathesar dev. In general I do not like missing deadlines or failing to meet goals. The idea of consistently having a "near miss" every month is uncomfortable for me.
 - Kriti:
     - Docker build issues took a while
